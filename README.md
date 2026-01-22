@@ -95,7 +95,7 @@ npm start
 yarn start
 ```
 
-Usage Guide
+## Usage Guide
 Public Chat: Go to http://localhost:3000. Click the microphone icon to speak in Hindi or type your medical question.
 
 Worker Login: Click "Health Worker Login" at the top right.
@@ -104,7 +104,7 @@ Default Credentials: (You can register a new user via the API docs at http://loc
 
 Dashboard: Once logged in, use the tabs to update stock levels or post new alerts.
 
-Contributors
+## Contributors
 Akshay Kumar Singh - Backend Architecture, AI/RAG Integration, Database Design
 
 Saurav Vats - Frontend Development, UI/UX, Accessibility Features
